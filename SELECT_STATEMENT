@@ -1,0 +1,6 @@
+SELECT ____, ____
+FROM ____
+WHERE _____
+AND _____
+ORDER BY _____ (DESC)
+LIMIT ____; 
